@@ -8,7 +8,7 @@
 # Guidelines
 > This guide is intended for deveopers for testing & development of tools and agents for Shinkai.  
 
-This is a repository for development purposes, **no not trust the code in this repository**
+This is a repository for development purposes, **do not trust the code in this repository**
 
 # Tool Programming
 
