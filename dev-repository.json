@@ -1,0 +1,6 @@
+{
+  "packages": [{
+    "name": "Tool Name",
+    "path": "https://raw.githubusercontent.com/acedward/shinkai-tool-deploy/main/packages/tool-name-v1.zip"
+  }]
+}
