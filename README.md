@@ -4,6 +4,8 @@
 
 ## Tool Guidelines
 > This guide is intended for deveopers for testing & development of tools and agents for Shinkai.
+This is a repository for development puporses, **no not trust the code in this repository**
+[Reposity URL](https://raw.githubusercontent.com/acedward/shinkai-tool-deploy/main/dev-repository.json) 
 
 # Tool Programming
 
