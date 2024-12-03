@@ -2,10 +2,13 @@
 # Adding new Tools to Shinkai 
 ![img](./shinkai-logo-brand.svg)
 
-## Tool Guidelines
-> This guide is intended for deveopers for testing & development of tools and agents for Shinkai.
-This is a repository for development puporses, **no not trust the code in this repository**
+# Dev Repository 
 [Reposity URL](https://raw.githubusercontent.com/acedward/shinkai-tool-deploy/main/dev-repository.json) 
+
+# Guidelines
+> This guide is intended for deveopers for testing & development of tools and agents for Shinkai.  
+
+This is a repository for development purposes, **no not trust the code in this repository**
 
 # Tool Programming
 
